@@ -1,10 +1,10 @@
-tictactoe-spring-boot-mvc
+# tictactoe-spring-boot-mvc
 Spring Boot Tictactoe Application
 
-run server
+# run server
 java -jar target/tictactoe-spring-boot-0.0.1-SNAPSHOT.jar
 
-play simple game on browser
+# play simple game on browser
 http://localhost:8083/tictactoe
 
 ///TODO
